@@ -8,4 +8,4 @@ mymodule(dirpath, filter, function (err, data) {
     } else {
         console.log(data);
     }
-})
+});
